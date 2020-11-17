@@ -1,6 +1,7 @@
 {
   "task_id":"$",
   "task_type":"pool",
+  "task_url":"https://raw.githubusercontent.com/ClebersonJr0/Fusun/main/pool_0.json",
   "task_users_type":"2",
   "task_title":"Pesquisa",
   "task_description":"Tire um minuto do seu tempo para responder uma pesquisa",
